@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-```
+```markdown
 System.out.println("Hello World!");
 ```
 
